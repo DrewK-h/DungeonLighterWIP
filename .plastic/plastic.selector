@@ -1,0 +1,4 @@
+repository "My project/Dungeon Lighter@2475996272481@cloud"
+  path "/"
+    br "/main"
+    co "/main"
